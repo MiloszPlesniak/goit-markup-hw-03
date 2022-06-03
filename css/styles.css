@@ -192,6 +192,13 @@ ul {
   min-width: 1200px;
   margin: 0px auto;
 }
+.heading-text{
+padding-top: 106px;
+padding-bottom: 200px;
+}
+.heading-text >h1{
+  margin-bottom: 30px;
+}
 .section-header{
   border-bottom: 1px solid #ececec;
   display: flex;
