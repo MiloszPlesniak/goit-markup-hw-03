@@ -182,7 +182,6 @@ ul {
 .container{
   width: 1200px;
   margin: 0 auto;
-  padding: 0 15px;
 }
 .section{
   padding-top: 94px;
@@ -212,7 +211,7 @@ padding-bottom: 200px;
 
 .menu{
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   }
   .list-item{
     margin-right: 15px;
